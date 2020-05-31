@@ -1,0 +1,26 @@
+
+body {
+    background: url(https://images.homedepot-static.com/productImages/c26c957d-0c7e-4cf4-bedb-e40f03aac1d6/svn/norwall-wallpaper-ll36207-64_1000.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    color:rgb(25, 111, 224) ;
+}
+
+h2 {
+    color: rgb(25, 111, 224) ;
+}
+
+
+
+#skills {
+    color: rgb(25, 111, 224) ;
+    border: 3px solid lightgreen;
+}
+
+.headoflist {
+    background-color: white;
+}
