@@ -1,4 +1,4 @@
-
+/*
 body {
     background: url(https://images.homedepot-static.com/productImages/c26c957d-0c7e-4cf4-bedb-e40f03aac1d6/svn/norwall-wallpaper-ll36207-64_1000.jpg);
     background-repeat: no-repeat;
@@ -24,3 +24,38 @@ h2 {
 .headoflist {
     background-color: white;
 }
+*/
+
+#top {
+    /*border-image: url(https://images.homedepot-static.com/productImages/c26c957d-0c7e-4cf4-bedb-e40f03aac1d6/svn/norwall-wallpaper-ll36207-64_1000.jpg); */
+    border-color: #7e8ca3;
+    border-style: solid;
+    border-width: 20px;
+
+    text-align: center;
+    margin-left: 15%;
+    margin-right:15%;
+
+}
+
+div button :nth-of-type(1) {
+padding: 20px;
+margin-left: 40 px;
+}
+
+div button :nth-of-type(2) {
+
+    margin: auto;
+}
+
+    div button :nth-of-type(3) {
+
+        margin-right: 40 px;
+}
+
+
+
+
+
+
+
